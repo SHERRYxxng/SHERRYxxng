@@ -1334,11 +1334,11 @@ var titleTime;
 document.addEventListener('visibilitychange', function () {
   if (document.hidden) {
     //离开当前页面时标签显示内容
-    document.title = '👀我会守护着你~';
+    document.title = '❀终究是抵不上么~';
     clearTimeout(titleTime);
   } else {
     //返回当前页面时标签显示内容
-    document.title = '🐖参见殿下～';
+    document.title = '008EF49E.png既见如来,为何不拜～';
     //两秒后变回正常标题
     titleTime = setTimeout(function () {
       document.title = OriginTitile;

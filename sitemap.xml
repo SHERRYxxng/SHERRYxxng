@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.fomal.cc/site/census/index.html</loc>
+    <loc>https://www.xuxianng.xyz/site/census/index.html</loc>
     
-    <lastmod>2023-05-09</lastmod>
+    <lastmod>2023-05-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/posts/3c95cfa5.html</loc>
+    <loc>https://www.xuxianng.xyz/categories/index.html</loc>
+    
+    <lastmod>2023-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xuxianng.xyz/social/link/index.html</loc>
+    
+    <lastmod>2023-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xuxianng.xyz/posts/3c95cfa5.html</loc>
     
     <lastmod>2023-05-01</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/posts/a121cbb1.html</loc>
+    <loc>https://www.xuxianng.xyz/posts/a121cbb1.html</loc>
     
     <lastmod>2023-04-26</lastmod>
     
@@ -29,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/posts/a4eece99.html</loc>
+    <loc>https://www.xuxianng.xyz/posts/a4eece99.html</loc>
     
     <lastmod>2023-04-23</lastmod>
     
@@ -38,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/posts/d695db1d.html</loc>
+    <loc>https://www.xuxianng.xyz/posts/d695db1d.html</loc>
     
     <lastmod>2023-04-23</lastmod>
     
@@ -47,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/tags/index.html</loc>
+    <loc>https://www.xuxianng.xyz/tags/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -56,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/social/link/index.html</loc>
+    <loc>https://www.xuxianng.xyz/social/fcircle/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -65,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/social/fcircle/index.html</loc>
+    <loc>https://www.xuxianng.xyz/site/time/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -74,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/site/time/index.html</loc>
+    <loc>https://www.xuxianng.xyz/personal/love/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -83,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/personal/love/index.html</loc>
+    <loc>https://www.xuxianng.xyz/personal/bb/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -92,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/personal/bb/index.html</loc>
+    <loc>https://www.xuxianng.xyz/personal/about/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -101,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/personal/about/index.html</loc>
+    <loc>https://www.xuxianng.xyz/life/music/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -110,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/life/music/index.html</loc>
+    <loc>https://www.xuxianng.xyz/life/movies/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -119,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/life/movies/index.html</loc>
+    <loc>https://www.xuxianng.xyz/life/games/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -128,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/life/games/index.html</loc>
+    <loc>https://www.xuxianng.xyz/box/nav/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -137,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/categories/index.html</loc>
+    <loc>https://www.xuxianng.xyz/box/gallery/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -146,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/box/nav/index.html</loc>
+    <loc>https://www.xuxianng.xyz/box/animation/index.html</loc>
     
     <lastmod>2023-04-19</lastmod>
     
@@ -155,25 +173,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/box/gallery/index.html</loc>
-    
-    <lastmod>2023-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fomal.cc/box/animation/index.html</loc>
-    
-    <lastmod>2023-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fomal.cc/posts/2013454d.html</loc>
+    <loc>https://www.xuxianng.xyz/posts/2013454d.html</loc>
     
     <lastmod>2022-10-23</lastmod>
     
@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/site/echarts/index.html</loc>
+    <loc>https://www.xuxianng.xyz/site/echarts/index.html</loc>
     
     <lastmod>2022-09-10</lastmod>
     
@@ -192,51 +192,51 @@
   
 
   <url>
-    <loc>https://www.fomal.cc/</loc>
-    <lastmod>2023-05-09</lastmod>
+    <loc>https://www.xuxianng.xyz/</loc>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.fomal.cc/tags/mybatis/</loc>
-    <lastmod>2023-05-09</lastmod>
+    <loc>https://www.xuxianng.xyz/tags/Markdown/</loc>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/tags/spring%E5%85%A8%E5%AE%B6%E6%A1%B6/</loc>
-    <lastmod>2023-05-09</lastmod>
+    <loc>https://www.xuxianng.xyz/tags/%E9%9B%B6%E6%95%A3/</loc>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/tags/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</loc>
-    <lastmod>2023-05-09</lastmod>
+    <loc>https://www.xuxianng.xyz/tags/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</loc>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/tags/Markdown/</loc>
-    <lastmod>2023-05-09</lastmod>
+    <loc>https://www.xuxianng.xyz/tags/mybatis/</loc>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/tags/%E9%9B%B6%E6%95%A3/</loc>
-    <lastmod>2023-05-09</lastmod>
+    <loc>https://www.xuxianng.xyz/tags/spring%E5%85%A8%E5%AE%B6%E6%A1%B6/</loc>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/tags/spring/</loc>
-    <lastmod>2023-05-09</lastmod>
+    <loc>https://www.xuxianng.xyz/tags/spring/</loc>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -244,22 +244,22 @@
 
   
   <url>
-    <loc>https://www.fomal.cc/categories/SSM/</loc>
-    <lastmod>2023-05-09</lastmod>
+    <loc>https://www.xuxianng.xyz/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/categories/%E7%AE%80%E5%8E%86/</loc>
-    <lastmod>2023-05-09</lastmod>
+    <loc>https://www.xuxianng.xyz/categories/%E7%AE%80%E5%8E%86/</loc>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-05-09</lastmod>
+    <loc>https://www.xuxianng.xyz/categories/SSM/</loc>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

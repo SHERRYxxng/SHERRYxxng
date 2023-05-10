@@ -3,11 +3,11 @@
   <title>SHERRY</title>
   
   
-  <link href="https://www.fomal.cc/atom.xml" rel="self"/>
+  <link href="https://www.xuxianng.xyz/atom.xml" rel="self"/>
   
-  <link href="https://www.fomal.cc/"/>
+  <link href="https://www.xuxianng.xyz/"/>
   <updated>2023-04-26T14:00:00.000Z</updated>
-  <id>https://www.fomal.cc/</id>
+  <id>https://www.xuxianng.xyz/</id>
   
   <author>
     <name>SHERRY</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>mybatis初体验</title>
-    <link href="https://www.fomal.cc/posts/a121cbb1.html"/>
-    <id>https://www.fomal.cc/posts/a121cbb1.html</id>
+    <link href="https://www.xuxianng.xyz/posts/a121cbb1.html"/>
+    <id>https://www.xuxianng.xyz/posts/a121cbb1.html</id>
     <published>2023-04-26T10:19:03.000Z</published>
     <updated>2023-04-26T14:00:00.000Z</updated>
     
@@ -30,19 +30,19 @@
     
     
     
-    <category term="SSM" scheme="https://www.fomal.cc/categories/SSM/"/>
+    <category term="SSM" scheme="https://www.xuxianng.xyz/categories/SSM/"/>
     
     
-    <category term="mybatis" scheme="https://www.fomal.cc/tags/mybatis/"/>
+    <category term="mybatis" scheme="https://www.xuxianng.xyz/tags/mybatis/"/>
     
-    <category term="spring全家桶" scheme="https://www.fomal.cc/tags/spring%E5%85%A8%E5%AE%B6%E6%A1%B6/"/>
+    <category term="spring全家桶" scheme="https://www.xuxianng.xyz/tags/spring%E5%85%A8%E5%AE%B6%E6%A1%B6/"/>
     
   </entry>
   
   <entry>
     <title>spring初体验</title>
-    <link href="https://www.fomal.cc/posts/d695db1d.html"/>
-    <id>https://www.fomal.cc/posts/d695db1d.html</id>
+    <link href="https://www.xuxianng.xyz/posts/d695db1d.html"/>
+    <id>https://www.xuxianng.xyz/posts/d695db1d.html</id>
     <published>2023-04-19T10:19:03.000Z</published>
     <updated>2023-04-23T14:00:00.000Z</updated>
     
@@ -53,19 +53,19 @@
     
     
     
-    <category term="SSM" scheme="https://www.fomal.cc/categories/SSM/"/>
+    <category term="SSM" scheme="https://www.xuxianng.xyz/categories/SSM/"/>
     
     
-    <category term="spring全家桶" scheme="https://www.fomal.cc/tags/spring%E5%85%A8%E5%AE%B6%E6%A1%B6/"/>
+    <category term="spring全家桶" scheme="https://www.xuxianng.xyz/tags/spring%E5%85%A8%E5%AE%B6%E6%A1%B6/"/>
     
-    <category term="spring" scheme="https://www.fomal.cc/tags/spring/"/>
+    <category term="spring" scheme="https://www.xuxianng.xyz/tags/spring/"/>
     
   </entry>
   
   <entry>
     <title>mybatis源码讲解</title>
-    <link href="https://www.fomal.cc/posts/a4eece99.html"/>
-    <id>https://www.fomal.cc/posts/a4eece99.html</id>
+    <link href="https://www.xuxianng.xyz/posts/a4eece99.html"/>
+    <id>https://www.xuxianng.xyz/posts/a4eece99.html</id>
     <published>2023-04-09T10:19:03.000Z</published>
     <updated>2023-04-23T14:00:00.000Z</updated>
     
@@ -76,19 +76,19 @@
     
     
     
-    <category term="SSM" scheme="https://www.fomal.cc/categories/SSM/"/>
+    <category term="SSM" scheme="https://www.xuxianng.xyz/categories/SSM/"/>
     
     
-    <category term="mybatis" scheme="https://www.fomal.cc/tags/mybatis/"/>
+    <category term="mybatis" scheme="https://www.xuxianng.xyz/tags/mybatis/"/>
     
-    <category term="spring全家桶" scheme="https://www.fomal.cc/tags/spring%E5%85%A8%E5%AE%B6%E6%A1%B6/"/>
+    <category term="spring全家桶" scheme="https://www.xuxianng.xyz/tags/spring%E5%85%A8%E5%AE%B6%E6%A1%B6/"/>
     
   </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://www.fomal.cc/posts/2013454d.html"/>
-    <id>https://www.fomal.cc/posts/2013454d.html</id>
+    <link href="https://www.xuxianng.xyz/posts/2013454d.html"/>
+    <id>https://www.xuxianng.xyz/posts/2013454d.html</id>
     <published>2022-08-09T10:19:03.000Z</published>
     <updated>2022-10-23T14:00:00.000Z</updated>
     
@@ -99,19 +99,19 @@
     
     
     
-    <category term="演示" scheme="https://www.fomal.cc/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="演示" scheme="https://www.xuxianng.xyz/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="Markdown" scheme="https://www.fomal.cc/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://www.xuxianng.xyz/tags/Markdown/"/>
     
-    <category term="零散" scheme="https://www.fomal.cc/tags/%E9%9B%B6%E6%95%A3/"/>
+    <category term="零散" scheme="https://www.xuxianng.xyz/tags/%E9%9B%B6%E6%95%A3/"/>
     
   </entry>
   
   <entry>
     <title>java工程师</title>
-    <link href="https://www.fomal.cc/posts/3c95cfa5.html"/>
-    <id>https://www.fomal.cc/posts/3c95cfa5.html</id>
+    <link href="https://www.xuxianng.xyz/posts/3c95cfa5.html"/>
+    <id>https://www.xuxianng.xyz/posts/3c95cfa5.html</id>
     <published>2018-06-01T10:19:03.000Z</published>
     <updated>2023-05-01T03:00:00.000Z</updated>
     
@@ -122,10 +122,10 @@
     
     
     
-    <category term="简历" scheme="https://www.fomal.cc/categories/%E7%AE%80%E5%8E%86/"/>
+    <category term="简历" scheme="https://www.xuxianng.xyz/categories/%E7%AE%80%E5%8E%86/"/>
     
     
-    <category term="个人简历" scheme="https://www.fomal.cc/tags/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/"/>
+    <category term="个人简历" scheme="https://www.xuxianng.xyz/tags/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/"/>
     
   </entry>
   
