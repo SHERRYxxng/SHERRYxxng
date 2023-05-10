@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.xuxianng.xyz/categories/index.html</loc>
+    <loc>https://www.xuxianng.xyz/site/census/index.html</loc>
     
     <lastmod>2023-05-10</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://www.xuxianng.xyz/site/census/index.html</loc>
+    <loc>https://www.xuxianng.xyz/posts/884390e.html</loc>
+    
+    <lastmod>2023-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xuxianng.xyz/categories/index.html</loc>
     
     <lastmod>2023-05-10</lastmod>
     
@@ -29,15 +38,6 @@
   </url>
   
   <url>
-    <loc>https://www.xuxianng.xyz/posts/3c95cfa5.html</loc>
-    
-    <lastmod>2023-05-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xuxianng.xyz/posts/a121cbb1.html</loc>
     
     <lastmod>2023-04-26</lastmod>
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.xuxianng.xyz/posts/a4eece99.html</loc>
+    <loc>https://www.xuxianng.xyz/posts/d695db1d.html</loc>
     
     <lastmod>2023-04-23</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://www.xuxianng.xyz/posts/d695db1d.html</loc>
+    <loc>https://www.xuxianng.xyz/posts/a4eece99.html</loc>
     
     <lastmod>2023-04-23</lastmod>
     
@@ -200,20 +200,6 @@
 
   
   <url>
-    <loc>https://www.xuxianng.xyz/tags/mybatis/</loc>
-    <lastmod>2023-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xuxianng.xyz/tags/spring%E5%85%A8%E5%AE%B6%E6%A1%B6/</loc>
-    <lastmod>2023-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xuxianng.xyz/tags/Markdown/</loc>
     <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,20 +221,20 @@
   </url>
   
   <url>
-    <loc>https://www.xuxianng.xyz/tags/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</loc>
+    <loc>https://www.xuxianng.xyz/tags/spring%E5%85%A8%E5%AE%B6%E6%A1%B6/</loc>
+    <lastmod>2023-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xuxianng.xyz/tags/mybatis/</loc>
     <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
-  
-  <url>
-    <loc>https://www.xuxianng.xyz/categories/SSM/</loc>
-    <lastmod>2023-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://www.xuxianng.xyz/categories/%E6%BC%94%E7%A4%BA/</loc>
@@ -258,7 +244,7 @@
   </url>
   
   <url>
-    <loc>https://www.xuxianng.xyz/categories/%E7%AE%80%E5%8E%86/</loc>
+    <loc>https://www.xuxianng.xyz/categories/SSM/</loc>
     <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
