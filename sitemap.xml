@@ -245,14 +245,7 @@
 
   
   <url>
-    <loc>https://www.xuxianng.xyz/tags/Markdown/</loc>
-    <lastmod>2023-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xuxianng.xyz/tags/%E9%9B%B6%E6%95%A3/</loc>
+    <loc>https://www.xuxianng.xyz/tags/Linux%E4%B8%8B/</loc>
     <lastmod>2023-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -273,13 +266,6 @@
   </url>
   
   <url>
-    <loc>https://www.xuxianng.xyz/tags/Linux%E4%B8%8A/</loc>
-    <lastmod>2023-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xuxianng.xyz/tags/spring/</loc>
     <lastmod>2023-05-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -287,21 +273,28 @@
   </url>
   
   <url>
+    <loc>https://www.xuxianng.xyz/tags/Linux%E4%B8%8A/</loc>
+    <lastmod>2023-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xuxianng.xyz/tags/Markdown/</loc>
+    <lastmod>2023-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xuxianng.xyz/tags/%E9%9B%B6%E6%95%A3/</loc>
+    <lastmod>2023-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xuxianng.xyz/tags/Redis%E4%B8%8A/</loc>
-    <lastmod>2023-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xuxianng.xyz/tags/Linux%E4%B8%8B/</loc>
-    <lastmod>2023-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xuxianng.xyz/tags/Redis%E4%B8%8B/</loc>
     <lastmod>2023-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -322,6 +315,13 @@
   </url>
   
   <url>
+    <loc>https://www.xuxianng.xyz/tags/Redis%E4%B8%8B/</loc>
+    <lastmod>2023-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xuxianng.xyz/tags/%E5%B0%9A%E5%A5%BD%E6%88%BF/</loc>
     <lastmod>2023-05-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -331,7 +331,7 @@
 
   
   <url>
-    <loc>https://www.xuxianng.xyz/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://www.xuxianng.xyz/categories/Linux/</loc>
     <lastmod>2023-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -345,7 +345,7 @@
   </url>
   
   <url>
-    <loc>https://www.xuxianng.xyz/categories/Linux/</loc>
+    <loc>https://www.xuxianng.xyz/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2023-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
