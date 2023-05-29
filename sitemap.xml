@@ -280,6 +280,13 @@
   </url>
   
   <url>
+    <loc>https://www.xuxianng.xyz/tags/spring/</loc>
+    <lastmod>2023-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xuxianng.xyz/tags/Redis%E4%B8%8A/</loc>
     <lastmod>2023-05-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -287,7 +294,7 @@
   </url>
   
   <url>
-    <loc>https://www.xuxianng.xyz/tags/spring/</loc>
+    <loc>https://www.xuxianng.xyz/tags/Linux%E4%B8%8B/</loc>
     <lastmod>2023-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -309,13 +316,6 @@
   
   <url>
     <loc>https://www.xuxianng.xyz/tags/%E7%AE%80%E5%8E%86/</loc>
-    <lastmod>2023-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xuxianng.xyz/tags/Linux%E4%B8%8B/</loc>
     <lastmod>2023-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
