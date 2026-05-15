@@ -53,14 +53,14 @@
 
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/SHERRYxxng/SHERRYxxng/assets/images/hi.gif" />
 
-- [广州图慧信息科技有限公司](https://120.79.217.107/) &emsp; 📌 Todo
+- [海卓云智信息技术有限公司](https://120.79.217.107/) &emsp; 📌 Todo
   
-  - 工作岗位：Web前端开发工程师
+  - 工作岗位：devops
   - 工作内容：GIS相关
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+- [上海韬源信息技术有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2025-12-12
   
-  - 工作岗位：Web前端开发实习生
+  - 工作岗位：桌面运维
   - 工作方向：一站式数据治理与开发
 
 </td>
